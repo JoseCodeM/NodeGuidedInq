@@ -1,0 +1,72 @@
+
+[
+        {
+            "EmployeeId": 111,
+            "Name": "John", 
+            "Salary": 40000, 
+            "Department": "Sales"
+        },
+        
+        {
+            "EmployeeId": 121,
+            "Name": "Joseph", 
+            "Salary": 45000, 
+            "Department": "Tech"
+        },
+
+        {
+            "EmployeeId": 131,
+            "Name": "Jodi", 
+            "Salary": 70000, 
+            "Department": "Sales"
+        },
+        
+        {
+            "EmployeeId": 141,
+            "Name": "JoJo", 
+            "Salary": 47000, 
+            "Department": "Tech"
+        },
+
+        {
+            "EmployeeId": 151,
+            "Name": "John", 
+            "Salary": 45000, 
+            "Department": "Sales"
+        },
+        
+        {
+            "EmployeeId": 161,
+            "Name": "Juwan", 
+            "Salary": 50000, 
+            "Department": "Tech"
+        },
+
+        {
+            "EmployeeId": 171,
+            "Name": "Ana", 
+            "Salary": 40000, 
+            "Department": "Sales"
+        },
+        
+        {
+            "EmployeeId": 181,
+            "Name": "Alex", 
+            "Salary": 50000, 
+            "Department": "Tech"
+        },
+
+        {
+            "EmployeeId": 191,
+            "Name": "Jose", 
+            "Salary": 30000, 
+            "Department": "Sales"
+        },
+        
+        {
+            "EmployeeId": 111,
+            "Name": "Mia", 
+            "Salary": 45000, 
+            "Department": "Tech"
+        }
+]
